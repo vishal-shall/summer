@@ -1,0 +1,22 @@
+{
+  "name": "summercode",
+  "displayName": "summercode",
+  "description": "color theme",
+  "version": "0.0.1",
+  "repository": {"directory": "https://github.com/vishal-shall/summer.git"},
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "summercode colors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/summercode colors-color-theme.json"
+      }
+    ]
+  }
+}
