@@ -3,6 +3,8 @@
   "displayName": "summercode",
   "description": "color theme",
   "version": "0.0.1",
+  "icon": "images/summercode.png",
+  "publisher": "vishalKapoor",
   "repository": {"directory": "https://github.com/vishal-shall/summer.git"},
   "engines": {
     "vscode": "^1.90.0"
